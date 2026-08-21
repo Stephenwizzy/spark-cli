@@ -1,0 +1,21 @@
+{
+  "team": "SEJ Team",
+  "members": [
+    {
+      "role": "Team Leader",
+      "telegram": "@stephen_wizzy",
+      "github": "Stephenwizzy",
+      "wallet": "0x2c0a9da1a97555107d7e5dd46870f9a53ae2d42d"
+    },
+    {
+      "role": "Team Member 2",
+      "telegram": "@rexstellary",
+      "wallet": "0x5b899F430Aa577cBF45f16813E4510641eB658b9"
+    },
+    {
+      "role": "Team Member 3",
+      "telegram": "@jiddah05",
+      "wallet": "0x02a9db2e093067f4c00a2c583073375ba218f7bb"
+    }
+  ]
+}
